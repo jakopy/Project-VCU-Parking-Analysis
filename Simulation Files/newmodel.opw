@@ -1,0 +1,56 @@
+[RESOURCES]
+Park Place
+Resource 1
+Resource 2
+Resource 3
+Resource 4
+Resource 5
+Resource 6
+Resource 7
+Resource 8
+Resource 9
+Resource 10
+Resource 11
+Resource 12
+Resource 13
+Resource 14
+Resource 15
+Resource 16
+Resource 17
+Resource 18
+Resource 19
+Resource 20
+Resource 21
+Resource 22
+Resource 23
+Resource 24
+Resource 25
+Resource 26
+Resource 27
+Resource 28
+Resource 29
+Resource 30
+Resource 31
+Resource 32
+Resource 33
+Resource 34
+Resource 35
+Resource 36
+Resource 37
+Resource 38
+Resource 39
+Resource 40
+Resource 41
+Resource 42
+[VARIABLES]
+Cars Arrive Area 1.NumberOut
+park prob.NumberOut False
+cars currently in area 1.NumberOut
+car leaves.NumberIn
+car leaves.NumberOut
+car parks Area 1.NumberIn
+No park leave.NumberOut
+Space available Area 1?.NumberOut True
+park prob.NumberOut True
+Space available Area 1?.NumberOut False
+car parks Area 1.NumberOut

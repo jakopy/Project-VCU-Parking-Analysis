@@ -1,0 +1,15 @@
+[RESOURCES]
+Park Place 5
+[VARIABLES]
+Dispose 2.NumberOut
+car parks Area 6.NumberOut
+Cars Arrive Area 6.NumberOut
+park prob Area 6.NumberOut False
+cars currently in area 6.NumberOut
+No park leave.NumberOut
+car leaves 6.NumberIn
+Space available Area 6?.NumberOut False
+Space available Area 6?.NumberOut True
+park prob Area 6.NumberOut True
+car leaves 6.NumberOut
+car parks Area 6.NumberIn

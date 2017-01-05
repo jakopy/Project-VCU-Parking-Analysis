@@ -1,0 +1,7 @@
+[RESOURCES]
+Park
+[VARIABLES]
+Car Leaves.NumberIn
+Car Parks.NumberOut
+Car Leaves.NumberOut
+Dispose 1.NumberOut

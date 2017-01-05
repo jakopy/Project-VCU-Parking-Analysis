@@ -1,0 +1,13 @@
+[RESOURCES]
+[VARIABLES]
+Park.NumberIn
+Car Leaves No Space Available.NumberOut
+Car Leaves Area.NumberOut
+Park.NumberOut
+Starting Number of Cars.NumberOut
+Parking Space Available?.NumberOut False
+Parking Space Available?.NumberOut True
+Drive Through?.NumberOut True
+Drive Through?.NumberOut False
+Car leaves after parking.NumberOut
+Car Comes In Area.NumberOut

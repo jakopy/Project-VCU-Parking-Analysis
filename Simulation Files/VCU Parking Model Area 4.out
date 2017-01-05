@@ -1,0 +1,2922 @@
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 1 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             16.722     (Insuf)    .00000     329.99         90    
+Entity 1.VATime                             7.5110     .69379     .00000     53.435        329    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        329    
+Entity 1.WaitTime                           40.405     25.110     .00000     1929.9        329    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        329    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        329    
+Entity 1.TotalTime                          47.916     24.951     1.1521     1929.9        329    
+car parks Area 4.Queue.WaitingTime          1107.7     (Insuf)    .00000     1929.9         12    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.880     (Corr)     .00000     90.000     80.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.737     (Insuf)    .00000     83.000     79.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            315  Infinite
+Record No Space Available Leave                   3  Infinite
+Record Car wants to Park                         11  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           409.00    
+Entity 1.NumberOut                          329.00    
+Park Place 4.NumberSeized                   12.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            329.00    
+
+Beginning replication 2 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 2 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.016     (Insuf)    .00000     641.88         87    
+Entity 1.VATime                             7.8838     .93823     .00000     82.270        327    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        327    
+Entity 1.WaitTime                           39.063     22.455     .00000     2146.8        327    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        327    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        327    
+Entity 1.TotalTime                          46.946     22.368     .99518     2146.8        327    
+car parks Area 4.Queue.WaitingTime          1064.4     (Insuf)    .00000     2146.8         12    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                80.695     (Corr)     .00000     87.000     78.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        78.495     (Insuf)    .00000     82.000     76.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            317  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          5  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           405.00    
+Entity 1.NumberOut                          327.00    
+Park Place 4.NumberSeized                   12.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            327.00    
+
+Beginning replication 3 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 3 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             15.465     (Insuf)    .00000     1065.9         85    
+Entity 1.VATime                             7.5657     (Insuf)    .00000     63.102        305    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        305    
+Entity 1.WaitTime                           33.871     (Insuf)    .00000     2121.9        305    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        305    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        305    
+Entity 1.TotalTime                          41.437     (Insuf)    1.2421     2121.9        305    
+car parks Area 4.Queue.WaitingTime          939.15     (Insuf)    .00000     2121.9         11    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.091     (Corr)     .00000     89.000     77.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        79.022     (Insuf)    .00000     83.000     75.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            296  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          3  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           382.00    
+Entity 1.NumberOut                          305.00    
+Park Place 4.NumberSeized                   11.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            305.00    
+
+Beginning replication 4 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 4 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             18.828     (Insuf)    .00000     575.06         90    
+Entity 1.VATime                             7.6466     .79658     .00000     39.837        327    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        327    
+Entity 1.WaitTime                           25.471     16.610     .00000     2161.0        327    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        327    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        327    
+Entity 1.TotalTime                          33.118     16.319     1.0899     2161.0        327    
+car parks Area 4.Queue.WaitingTime          832.92     (Insuf)    .00000     2161.0         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.217     (Corr)     .00000     90.000     82.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.061     (Insuf)    .00000     83.000     81.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            311  Infinite
+Record No Space Available Leave                   7  Infinite
+Record Car wants to Park                         15  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           409.00    
+Entity 1.NumberOut                          327.00    
+Park Place 4.NumberSeized                   10.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            327.00    
+
+Beginning replication 5 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 5 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.223     (Insuf)    .00000     1171.3         86    
+Entity 1.VATime                             8.1796     (Insuf)    .00000     65.424        318    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        318    
+Entity 1.WaitTime                           13.864     (Insuf)    .00000     2026.4        318    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        318    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        318    
+Entity 1.TotalTime                          22.044     (Insuf)    .91944     2026.4        318    
+car parks Area 4.Queue.WaitingTime          1102.2     (Insuf)    .00000     2026.4          4    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.831     .22248     .00000     90.000     85.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.626     (Insuf)    .00000     83.000     83.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            313  Infinite
+Record No Space Available Leave                   3  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           403.00    
+Entity 1.NumberOut                          318.00    
+Park Place 4.NumberSeized                   4.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            318.00    
+
+Beginning replication 6 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 6 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.184     (Insuf)    .00000     1000.7         88    
+Entity 1.VATime                             7.2729     .66927     .00000     53.826        337    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        337    
+Entity 1.WaitTime                           20.906     20.566     .00000     1473.4        337    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        337    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        337    
+Entity 1.TotalTime                          28.179     20.291     1.3300     1473.4        337    
+car parks Area 4.Queue.WaitingTime          782.84     (Insuf)    .00000     1473.4          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.702     (Corr)     .00000     88.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        79.568     (Insuf)    .00000     83.000     80.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            328  Infinite
+Record No Space Available Leave                   1  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           418.00    
+Entity 1.NumberOut                          337.00    
+Park Place 4.NumberSeized                   9.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            337.00    
+
+Beginning replication 7 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 7 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.919     (Insuf)    .00000     670.81         89    
+Entity 1.VATime                             8.3492     1.0207     .00000     92.442        341    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        341    
+Entity 1.WaitTime                           28.754     27.924     .00000     1889.7        341    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        341    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        341    
+Entity 1.TotalTime                          37.103     27.586     1.1509     1889.7        341    
+car parks Area 4.Queue.WaitingTime          891.38     (Insuf)    .00000     1889.7         11    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.529     (Corr)     .00000     87.000     82.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.207     (Insuf)    .00000     83.000     79.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            333  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           423.00    
+Entity 1.NumberOut                          341.00    
+Park Place 4.NumberSeized                   11.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            341.00    
+
+Beginning replication 8 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 8 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.087     (Insuf)    .00000     542.23         92    
+Entity 1.VATime                             8.0163     .90559     .00000     43.911        368    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        368    
+Entity 1.WaitTime                           26.923     19.651     .00000     2065.9        368    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        368    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        368    
+Entity 1.TotalTime                          34.939     19.460     1.0160     2065.9        368    
+car parks Area 4.Queue.WaitingTime          900.71     (Insuf)    .00000     2065.9         11    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.639     (Corr)     .00000     89.000     86.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.260     (Insuf)    .00000     83.000     82.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            360  Infinite
+Record No Space Available Leave                   1  Infinite
+Record Car wants to Park                         11  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           454.00    
+Entity 1.NumberOut                          368.00    
+Park Place 4.NumberSeized                   11.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            368.00    
+
+Beginning replication 9 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 9 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             22.994     (Insuf)    .00000     842.15         88    
+Entity 1.VATime                             7.2884     .81749     .00000     33.656        327    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        327    
+Entity 1.WaitTime                           36.869     30.420     .00000     2085.4        327    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        327    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        327    
+Entity 1.TotalTime                          44.157     29.922     1.0806     2085.4        327    
+car parks Area 4.Queue.WaitingTime          1339.5     (Insuf)    .00000     2085.4          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.320     (Corr)     .00000     90.000     83.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.211     (Insuf)    .00000     83.000     80.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            318  Infinite
+Record No Space Available Leave                   3  Infinite
+Record Car wants to Park                          9  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           410.00    
+Entity 1.NumberOut                          327.00    
+Park Place 4.NumberSeized                   9.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            327.00    
+
+Beginning replication 10 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 10 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.374     (Insuf)    .00000     1247.9         87    
+Entity 1.VATime                             8.0468     (Insuf)    .00000     44.863        310    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        310    
+Entity 1.WaitTime                           10.589     (Insuf)    .00000     2008.1        310    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        310    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        310    
+Entity 1.TotalTime                          18.636     (Insuf)    1.2028     2008.1        310    
+car parks Area 4.Queue.WaitingTime          656.56     (Insuf)    .00000     2008.1          5    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.998     .19254     .00000     89.000     84.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.844     (Insuf)    .00000     83.000     83.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            298  Infinite
+Record No Space Available Leave                   8  Infinite
+Record Car wants to Park                         13  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           394.00    
+Entity 1.NumberOut                          310.00    
+Park Place 4.NumberSeized                   5.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            310.00    
+
+Beginning replication 11 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 11 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             21.463     (Insuf)    .00000     644.26         90    
+Entity 1.VATime                             7.6706     .82081     .00000     84.837        332    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        332    
+Entity 1.WaitTime                           43.600     (Corr)     .00000     1927.2        332    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        332    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        332    
+Entity 1.TotalTime                          51.270     (Corr)     1.2648     1927.2        332    
+car parks Area 4.Queue.WaitingTime          1033.9     (Insuf)    .00000     1927.2         14    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.357     (Corr)     .00000     87.000     80.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        79.174     (Insuf)    .00000     82.000     77.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            321  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           412.00    
+Entity 1.NumberOut                          332.00    
+Park Place 4.NumberSeized                   14.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            332.00    
+
+Beginning replication 12 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 12 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.639     (Insuf)    .00000     709.84         87    
+Entity 1.VATime                             7.4889     .55088     .00000     40.249        327    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        327    
+Entity 1.WaitTime                           36.614     20.171     .00000     1975.9        327    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        327    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        327    
+Entity 1.TotalTime                          44.102     19.997     1.3429     1975.9        327    
+car parks Area 4.Queue.WaitingTime          920.98     (Insuf)    .00000     1975.9         13    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                80.032     (Corr)     .00000     89.000     77.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        77.896     (Insuf)    .00000     83.000     75.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            316  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          5  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           404.00    
+Entity 1.NumberOut                          327.00    
+Park Place 4.NumberSeized                   13.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            327.00    
+
+Beginning replication 13 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 13 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.175     (Insuf)    .00000     970.07         89    
+Entity 1.VATime                             7.4379     .69869     .00000     40.494        321    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        321    
+Entity 1.WaitTime                           8.1199     10.480     .00000     739.41        321    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        321    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        321    
+Entity 1.TotalTime                          15.557     10.400     1.2939     739.41        321    
+car parks Area 4.Queue.WaitingTime          372.35     (Insuf)    .00000     739.41          7    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.150     (Corr)     .00000     88.000     86.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.040     (Insuf)    .00000     83.000     83.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            315  Infinite
+Record No Space Available Leave                   2  Infinite
+Record Car wants to Park                          9  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           407.00    
+Entity 1.NumberOut                          321.00    
+Park Place 4.NumberSeized                   7.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            321.00    
+
+Beginning replication 14 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 14 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             8.2672     (Insuf)    .00000     538.69         84    
+Entity 1.VATime                             8.3162     .94987     .00000     69.975        353    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        353    
+Entity 1.WaitTime                           13.568     12.829     .00000     1756.8        353    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        353    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        353    
+Entity 1.TotalTime                          21.885     12.665     1.3778     1756.8        353    
+car parks Area 4.Queue.WaitingTime          684.25     (Insuf)    .00000     1756.8          7    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.183     (Corr)     .00000     89.000     80.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        79.822     (Insuf)    .00000     82.000     78.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            348  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          2  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           433.00    
+Entity 1.NumberOut                          353.00    
+Park Place 4.NumberSeized                   7.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            353.00    
+
+Beginning replication 15 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 15 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             22.666     (Insuf)    .00000     856.15         87    
+Entity 1.VATime                             7.8767     1.1345     .00000     80.047        325    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        325    
+Entity 1.WaitTime                           15.981     16.998     .00000     1822.7        325    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        325    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        325    
+Entity 1.TotalTime                          23.858     16.864     .96555     1822.7        325    
+car parks Area 4.Queue.WaitingTime          1038.8     (Insuf)    .00000     1822.7          5    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.812     (Corr)     .00000     89.000     87.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.620     (Insuf)    .00000     83.000     83.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            321  Infinite
+Record No Space Available Leave                   3  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           412.00    
+Entity 1.NumberOut                          325.00    
+Park Place 4.NumberSeized                   5.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            325.00    
+
+Beginning replication 16 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 16 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             20.807     (Insuf)    .00000     1680.2         84    
+Entity 1.VATime                             7.8916     .70060     .00000     37.343        321    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        321    
+Entity 1.WaitTime                           36.591     23.373     .00000     2126.8        321    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        321    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        321    
+Entity 1.TotalTime                          44.483     23.694     1.3339     2126.8        321    
+car parks Area 4.Queue.WaitingTime          1174.5     (Insuf)    .00000     2126.8         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.021     (Corr)     .00000     87.000     77.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        78.847     (Insuf)    .00000     82.000     75.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            313  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          2  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           398.00    
+Entity 1.NumberOut                          321.00    
+Park Place 4.NumberSeized                   10.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            321.00    
+
+Beginning replication 17 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 17 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             12.892     (Insuf)    .00000     769.17         85    
+Entity 1.VATime                             8.8834     (Insuf)    .00000     65.217        314    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        314    
+Entity 1.WaitTime                           21.325     (Insuf)    .00000     2086.3        314    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        314    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        314    
+Entity 1.TotalTime                          30.209     (Insuf)    1.2278     2086.3        314    
+car parks Area 4.Queue.WaitingTime          1116.0     (Insuf)    .00000     2086.3          6    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.360     (Corr)     .00000     89.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.070     (Insuf)    .00000     83.000     80.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            305  Infinite
+Record No Space Available Leave                   4  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           395.00    
+Entity 1.NumberOut                          314.00    
+Park Place 4.NumberSeized                   6.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            314.00    
+
+Beginning replication 18 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 18 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.641     (Insuf)    .00000     907.38         87    
+Entity 1.VATime                             7.8145     .46972     .00000     50.126        324    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        324    
+Entity 1.WaitTime                           19.459     18.793     .00000     1533.0        324    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        324    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        324    
+Entity 1.TotalTime                          27.273     18.745     1.0807     1533.0        324    
+car parks Area 4.Queue.WaitingTime          900.67     (Insuf)    .00000     1533.0          7    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.686     (Corr)     .00000     89.000     86.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.498     (Insuf)    .00000     83.000     81.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            320  Infinite
+Record No Space Available Leave                   2  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           410.00    
+Entity 1.NumberOut                          324.00    
+Park Place 4.NumberSeized                   7.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            324.00    
+
+Beginning replication 19 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 19 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             13.209     (Insuf)    .00000     796.59         87    
+Entity 1.VATime                             8.1317     .83556     .00000     54.051        360    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        360    
+Entity 1.WaitTime                           33.640     24.806     .00000     1980.9        360    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        360    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        360    
+Entity 1.TotalTime                          41.771     24.665     1.1056     1980.9        360    
+car parks Area 4.Queue.WaitingTime          931.57     (Insuf)    .00000     1980.9         13    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.084     (Corr)     .00000     90.000     76.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        79.730     (Insuf)    .00000     83.000     75.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            348  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          5  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           436.00    
+Entity 1.NumberOut                          360.00    
+Park Place 4.NumberSeized                   13.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            360.00    
+
+Beginning replication 20 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 20 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.037     (Insuf)    .00000     1046.1         89    
+Entity 1.VATime                             7.9265     .78489     .00000     64.741        342    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        342    
+Entity 1.WaitTime                           19.098     15.009     .00000     1573.3        342    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        342    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        342    
+Entity 1.TotalTime                          27.025     15.039     1.2777     1573.3        342    
+car parks Area 4.Queue.WaitingTime          653.16     (Insuf)    .00000     1573.3         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.722     (Corr)     .00000     87.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.468     (Insuf)    .00000     83.000     80.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            332  Infinite
+Record No Space Available Leave                   1  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           423.00    
+Entity 1.NumberOut                          342.00    
+Park Place 4.NumberSeized                   10.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            342.00    
+
+Beginning replication 21 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 21 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.303     (Insuf)    .00000     778.38         87    
+Entity 1.VATime                             8.2348     .76050     .00000     47.558        332    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        332    
+Entity 1.WaitTime                           29.577     20.113     .00000     2082.0        332    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        332    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        332    
+Entity 1.TotalTime                          37.812     20.011     .72482     2082.0        332    
+car parks Area 4.Queue.WaitingTime          1091.0     (Insuf)    .00000     2082.0          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.282     (Corr)     .00000     89.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.014     (Insuf)    .00000     83.000     79.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            323  Infinite
+Record No Space Available Leave                   2  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           413.00    
+Entity 1.NumberOut                          332.00    
+Park Place 4.NumberSeized                   9.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            332.00    
+
+Beginning replication 22 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 22 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             21.274     (Insuf)    .00000     950.93         86    
+Entity 1.VATime                             8.2738     .84395     .00000     65.899        339    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        339    
+Entity 1.WaitTime                           20.875     19.593     .00000     2049.3        339    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        339    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        339    
+Entity 1.TotalTime                          29.149     19.805     1.0702     2049.3        339    
+car parks Area 4.Queue.WaitingTime          1179.4     (Insuf)    .00000     2049.3          6    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.476     (Corr)     .00000     89.000     83.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.176     (Insuf)    .00000     83.000     81.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            333  Infinite
+Record No Space Available Leave                   2  Infinite
+Record Car wants to Park                          6  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           422.00    
+Entity 1.NumberOut                          339.00    
+Park Place 4.NumberSeized                   6.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            339.00    
+
+Beginning replication 23 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 23 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.681     (Insuf)    .00000     704.89         88    
+Entity 1.VATime                             8.1546     .57257     .00000     40.818        339    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        339    
+Entity 1.WaitTime                           6.8041     6.4522     .00000     787.52        339    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        339    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        339    
+Entity 1.TotalTime                          14.958     6.5408     1.0724     787.52        339    
+car parks Area 4.Queue.WaitingTime          329.51     (Insuf)    .00000     787.52          7    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.703     (Corr)     .00000     89.000     85.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.421     (Insuf)    .00000     82.000     82.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            335  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          6  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           424.00    
+Entity 1.NumberOut                          339.00    
+Park Place 4.NumberSeized                   7.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            339.00    
+
+Beginning replication 24 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 24 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.718     (Insuf)    .00000     577.24         88    
+Entity 1.VATime                             8.6353     (Insuf)    .00000     90.019        312    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        312    
+Entity 1.WaitTime                           26.379     (Insuf)    .00000     2050.7        312    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        312    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        312    
+Entity 1.TotalTime                          35.015     (Insuf)    1.0453     2050.7        312    
+car parks Area 4.Queue.WaitingTime          1175.7     (Insuf)    .00000     2050.7          7    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.335     (Corr)     .00000     89.000     83.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.089     (Insuf)    .00000     83.000     82.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            304  Infinite
+Record No Space Available Leave                   2  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           395.00    
+Entity 1.NumberOut                          312.00    
+Park Place 4.NumberSeized                   7.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            312.00    
+
+Beginning replication 25 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 25 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.729     (Insuf)    .00000     742.71         87    
+Entity 1.VATime                             8.1684     (Insuf)    .00000     116.32        302    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        302    
+Entity 1.WaitTime                           31.406     (Insuf)    .00000     1907.5        302    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        302    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        302    
+Entity 1.TotalTime                          39.574     (Insuf)    .84985     1907.5        302    
+car parks Area 4.Queue.WaitingTime          1053.8     (Insuf)    .00000     1907.5          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.963     (Corr)     .00000     86.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        79.820     (Insuf)    .00000     82.000     79.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            295  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          5  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           383.00    
+Entity 1.NumberOut                          302.00    
+Park Place 4.NumberSeized                   9.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            302.00    
+
+Beginning replication 26 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 26 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             21.808     (Insuf)    .00000     997.54         85    
+Entity 1.VATime                             7.7835     (Insuf)    .00000     43.283        319    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        319    
+Entity 1.WaitTime                           7.4073     (Insuf)    .00000     1721.2        319    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        319    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        319    
+Entity 1.TotalTime                          15.190     (Insuf)    .79717     1721.2        319    
+car parks Area 4.Queue.WaitingTime          787.64     (Insuf)    .00000     1721.2          3    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.410     (Corr)     .00000     89.000     84.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.262     (Insuf)    .00000     83.000     83.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            312  Infinite
+Record No Space Available Leave                   5  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           403.00    
+Entity 1.NumberOut                          319.00    
+Park Place 4.NumberSeized                   3.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            319.00    
+
+Beginning replication 27 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 27 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.662     (Insuf)    .00000     668.63         87    
+Entity 1.VATime                             8.5354     (Insuf)    .00000     73.666        319    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        319    
+Entity 1.WaitTime                           27.616     (Insuf)    .00000     2123.4        319    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        319    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        319    
+Entity 1.TotalTime                          36.151     (Insuf)    1.1929     2123.4        319    
+car parks Area 4.Queue.WaitingTime          880.96     (Insuf)    .00000     2123.4         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.759     (Corr)     .00000     88.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        79.496     (Insuf)    .00000     82.000     78.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            312  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          5  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           400.00    
+Entity 1.NumberOut                          319.00    
+Park Place 4.NumberSeized                   10.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            319.00    
+
+Beginning replication 28 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 28 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.459     (Insuf)    .00000     627.22         88    
+Entity 1.VATime                             7.6249     .64673     .00000     41.840        345    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        345    
+Entity 1.WaitTime                           22.075     16.513     .00000     2091.2        345    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        345    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        345    
+Entity 1.TotalTime                          29.700     16.338     .91508     2091.2        345    
+car parks Area 4.Queue.WaitingTime          952.00     (Insuf)    .00000     2091.2          8    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.074     (Corr)     .00000     88.000     82.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.858     (Insuf)    .00000     83.000     81.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            337  Infinite
+Record No Space Available Leave                   1  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           427.00    
+Entity 1.NumberOut                          345.00    
+Park Place 4.NumberSeized                   8.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            345.00    
+
+Beginning replication 29 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 29 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.014     (Insuf)    .00000     1041.9         84    
+Entity 1.VATime                             8.2771     (Insuf)    .00000     80.354        318    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        318    
+Entity 1.WaitTime                           21.677     (Insuf)    .00000     1889.7        318    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        318    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        318    
+Entity 1.TotalTime                          29.954     (Insuf)    1.1185     1889.7        318    
+car parks Area 4.Queue.WaitingTime          861.69     (Insuf)    .00000     1889.7          8    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.021     (Corr)     .00000     86.000     78.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        78.804     (Insuf)    .00000     82.000     77.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            311  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          2  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           396.00    
+Entity 1.NumberOut                          318.00    
+Park Place 4.NumberSeized                   8.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            318.00    
+
+Beginning replication 30 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 30 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             22.145     (Insuf)    .00000     1712.1         85    
+Entity 1.VATime                             8.2851     (Insuf)    .00000     41.059        311    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        311    
+Entity 1.WaitTime                           31.052     (Insuf)    .00000     2098.8        311    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        311    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        311    
+Entity 1.TotalTime                          39.337     (Insuf)    1.0004     2098.8        311    
+car parks Area 4.Queue.WaitingTime          1207.1     (Insuf)    .00000     2098.8          8    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.191     (Corr)     .00000     88.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        79.988     (Insuf)    .00000     82.000     78.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            306  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          3  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           392.00    
+Entity 1.NumberOut                          311.00    
+Park Place 4.NumberSeized                   8.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            311.00    
+
+Beginning replication 31 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 31 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.149     (Insuf)    .00000     491.08         89    
+Entity 1.VATime                             7.9634     .80590     .00000     47.138        322    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        322    
+Entity 1.WaitTime                           24.387     19.452     .00000     2046.0        322    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        322    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        322    
+Entity 1.TotalTime                          32.350     19.225     .90641     2046.0        322    
+car parks Area 4.Queue.WaitingTime          872.52     (Insuf)    .00000     2046.0          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.283     (Corr)     .00000     88.000     83.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.096     (Insuf)    .00000     83.000     81.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            315  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           405.00    
+Entity 1.NumberOut                          322.00    
+Park Place 4.NumberSeized                   9.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            322.00    
+
+Beginning replication 32 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 32 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             17.047     (Insuf)    .00000     896.90         86    
+Entity 1.VATime                             8.3568     (Insuf)    .00000     47.853        316    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        316    
+Entity 1.WaitTime                           25.655     (Insuf)    .00000     2069.8        316    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        316    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        316    
+Entity 1.TotalTime                          34.012     (Insuf)    1.0524     2069.8        316    
+car parks Area 4.Queue.WaitingTime          1158.1     (Insuf)    .00000     2069.8          7    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.291     (Corr)     .00000     89.000     84.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.050     (Insuf)    .00000     83.000     80.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            310  Infinite
+Record No Space Available Leave                   3  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           400.00    
+Entity 1.NumberOut                          316.00    
+Park Place 4.NumberSeized                   7.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            316.00    
+
+Beginning replication 33 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 33 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             16.838     (Insuf)    .00000     433.17         89    
+Entity 1.VATime                             7.0805     (Insuf)    .00000     38.876        312    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        312    
+Entity 1.WaitTime                           30.625     (Insuf)    .00000     2135.6        312    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        312    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        312    
+Entity 1.TotalTime                          37.706     (Insuf)    1.5749     2135.6        312    
+car parks Area 4.Queue.WaitingTime          796.26     (Insuf)    .00000     2135.6         12    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.175     (Corr)     .00000     86.000     80.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        79.149     (Insuf)    .00000     82.000     78.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            302  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           392.00    
+Entity 1.NumberOut                          312.00    
+Park Place 4.NumberSeized                   12.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            312.00    
+
+Beginning replication 34 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 34 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             20.216     (Insuf)    .00000     1108.6         86    
+Entity 1.VATime                             8.3221     .81067     .00000     53.660        346    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        346    
+Entity 1.WaitTime                           28.108     20.864     .00000     2096.4        346    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        346    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        346    
+Entity 1.TotalTime                          36.430     21.125     1.2008     2096.4        346    
+car parks Area 4.Queue.WaitingTime          884.13     (Insuf)    .00000     2096.4         11    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.043     (Corr)     .00000     86.000     79.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        78.700     (Insuf)    .00000     82.000     76.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            338  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          4  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           425.00    
+Entity 1.NumberOut                          346.00    
+Park Place 4.NumberSeized                   11.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            346.00    
+
+Beginning replication 35 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 35 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             22.913     (Insuf)    .00000     749.97         90    
+Entity 1.VATime                             8.5142     (Insuf)    .00000     55.685        313    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        313    
+Entity 1.WaitTime                           30.573     (Insuf)    .00000     2076.5        313    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        313    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        313    
+Entity 1.TotalTime                          39.087     (Insuf)    1.0896     2076.5        313    
+car parks Area 4.Queue.WaitingTime          956.95     (Insuf)    .00000     2076.5         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.239     (Corr)     .00000     88.000     84.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.999     (Insuf)    .00000     83.000     81.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            304  Infinite
+Record No Space Available Leave                   2  Infinite
+Record Car wants to Park                         10  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           397.00    
+Entity 1.NumberOut                          313.00    
+Park Place 4.NumberSeized                   10.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            313.00    
+
+Beginning replication 36 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 36 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             22.885     (Insuf)    .00000     479.60         90    
+Entity 1.VATime                             7.3487     (Insuf)    .00000     38.547        301    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        301    
+Entity 1.WaitTime                           13.126     (Insuf)    .00000     1807.4        301    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        301    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        301    
+Entity 1.TotalTime                          20.475     (Insuf)    1.1843     1807.4        301    
+car parks Area 4.Queue.WaitingTime          493.89     (Insuf)    .00000     1807.4          8    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.928     (Corr)     .00000     89.000     88.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.896     (Insuf)    .00000     83.000     83.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            298  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           389.00    
+Entity 1.NumberOut                          301.00    
+Park Place 4.NumberSeized                   8.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            301.00    
+
+Beginning replication 37 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 37 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             16.127     (Insuf)    .00000     556.72         88    
+Entity 1.VATime                             7.5299     .80078     .00000     43.597        333    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        333    
+Entity 1.WaitTime                           14.214     13.655     .00000     1495.5        333    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        333    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        333    
+Entity 1.TotalTime                          21.744     13.527     .97029     1495.5        333    
+car parks Area 4.Queue.WaitingTime          676.22     (Insuf)    .00000     1495.5          7    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.580     (Corr)     .00000     90.000     87.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.402     (Insuf)    .00000     83.000     82.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            329  Infinite
+Record No Space Available Leave                   2  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           420.00    
+Entity 1.NumberOut                          333.00    
+Park Place 4.NumberSeized                   7.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            333.00    
+
+Beginning replication 38 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 38 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.248     (Insuf)    .00000     1022.2         87    
+Entity 1.VATime                             7.7037     (Insuf)    .00000     34.585        307    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        307    
+Entity 1.WaitTime                           21.675     (Insuf)    .00000     1792.0        307    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        307    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        307    
+Entity 1.TotalTime                          29.379     (Insuf)    1.1077     1792.0        307    
+car parks Area 4.Queue.WaitingTime          950.62     (Insuf)    .00000     1792.0          7    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.782     (Corr)     .00000     89.000     84.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.685     (Insuf)    .00000     83.000     81.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            299  Infinite
+Record No Space Available Leave                   4  Infinite
+Record Car wants to Park                          9  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           391.00    
+Entity 1.NumberOut                          307.00    
+Park Place 4.NumberSeized                   7.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            307.00    
+
+Beginning replication 39 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 39 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             10.204     (Insuf)    .00000     670.68         85    
+Entity 1.VATime                             7.8327     .61735     .00000     47.652        330    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        330    
+Entity 1.WaitTime                           21.697     (Corr)     .00000     2048.2        330    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        330    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        330    
+Entity 1.TotalTime                          29.530     (Corr)     .93150     2048.2        330    
+car parks Area 4.Queue.WaitingTime          1193.3     (Insuf)    .00000     2048.2          6    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.730     (Corr)     .00000     89.000     82.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        82.534     (Insuf)    .00000     83.000     80.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            321  Infinite
+Record No Space Available Leave                   5  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           412.00    
+Entity 1.NumberOut                          330.00    
+Park Place 4.NumberSeized                   6.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            330.00    
+
+Beginning replication 40 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 40 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.092     (Insuf)    .00000     1123.0         88    
+Entity 1.VATime                             8.3048     .83440     .00000     46.510        344    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        344    
+Entity 1.WaitTime                           14.419     17.449     .00000     1375.1        344    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        344    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        344    
+Entity 1.TotalTime                          22.724     17.602     .93654     1375.1        344    
+car parks Area 4.Queue.WaitingTime          826.73     (Insuf)    .00000     1375.1          6    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.441     (Corr)     .00000     90.000     86.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.109     (Insuf)    .00000     83.000     83.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            339  Infinite
+Record No Space Available Leave                   2  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           430.00    
+Entity 1.NumberOut                          344.00    
+Park Place 4.NumberSeized                   6.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            344.00    
+
+Beginning replication 41 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 41 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             20.167     (Insuf)    .00000     675.77         88    
+Entity 1.VATime                             7.4518     .81139     .00000     48.082        328    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        328    
+Entity 1.WaitTime                           29.129     28.100     .00000     1881.4        328    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        328    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        328    
+Entity 1.TotalTime                          36.581     28.063     .93283     1881.4        328    
+car parks Area 4.Queue.WaitingTime          1061.6     (Insuf)    .00000     1881.4          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.060     (Corr)     .00000     88.000     82.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.920     (Insuf)    .00000     83.000     80.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            321  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          6  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           410.00    
+Entity 1.NumberOut                          328.00    
+Park Place 4.NumberSeized                   9.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            328.00    
+
+Beginning replication 42 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 42 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             22.496     (Insuf)    .00000     403.87         90    
+Entity 1.VATime                             7.7346     .77503     .00000     70.898        354    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        354    
+Entity 1.WaitTime                           40.717     34.168     .00000     1921.2        354    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        354    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        354    
+Entity 1.TotalTime                          48.452     33.856     1.0377     1921.2        354    
+car parks Area 4.Queue.WaitingTime          1108.7     (Insuf)    .00000     1921.2         13    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.119     (Corr)     .00000     89.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.851     (Insuf)    .00000     83.000     78.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            341  Infinite
+Record No Space Available Leave                   3  Infinite
+Record Car wants to Park                         11  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           435.00    
+Entity 1.NumberOut                          354.00    
+Park Place 4.NumberSeized                   13.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            354.00    
+
+Beginning replication 43 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 43 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.081     (Insuf)    .00000     669.03         89    
+Entity 1.VATime                             7.9843     1.1360     .00000     87.208        330    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        330    
+Entity 1.WaitTime                           29.561     20.126     .00000     1822.4        330    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        330    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        330    
+Entity 1.TotalTime                          37.546     19.586     1.0311     1822.4        330    
+car parks Area 4.Queue.WaitingTime          1083.9     (Insuf)    .00000     1822.4          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.541     (Corr)     .00000     89.000     84.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.322     (Insuf)    .00000     83.000     81.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            324  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          7  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           414.00    
+Entity 1.NumberOut                          330.00    
+Park Place 4.NumberSeized                   9.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            330.00    
+
+Beginning replication 44 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 44 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             17.470     (Insuf)    .00000     637.40         88    
+Entity 1.VATime                             7.7910     .45100     .00000     43.702        359    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        359    
+Entity 1.WaitTime                           11.682     13.661     .00000     1514.8        359    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        359    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        359    
+Entity 1.TotalTime                          19.473     13.636     .00000     1514.8        359    
+car parks Area 4.Queue.WaitingTime          698.99     (Insuf)    .00000     1514.8          6    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                84.049     (Corr)     .00000     89.000     85.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.753     (Insuf)    .00000     83.000     83.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            350  Infinite
+Record No Space Available Leave                   5  Infinite
+Record Car wants to Park                         11  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           444.00    
+Entity 1.NumberOut                          359.00    
+Park Place 4.NumberSeized                   6.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            359.00    
+
+Beginning replication 45 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 45 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.183     (Insuf)    .00000     494.65         90    
+Entity 1.VATime                             7.8599     .79194     .00000     40.754        354    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        354    
+Entity 1.WaitTime                           25.784     18.931     .00000     2070.0        354    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        354    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        354    
+Entity 1.TotalTime                          33.644     18.600     1.1024     2070.0        354    
+car parks Area 4.Queue.WaitingTime          1014.2     (Insuf)    .00000     2070.0          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.172     (Corr)     .00000     90.000     84.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.875     (Insuf)    .00000     82.000     82.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            347  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          8  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           438.00    
+Entity 1.NumberOut                          354.00    
+Park Place 4.NumberSeized                   9.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            354.00    
+
+Beginning replication 46 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 46 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             24.497     (Insuf)    .00000     851.77         88    
+Entity 1.VATime                             7.3219     .53048     .00000     51.733        340    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        340    
+Entity 1.WaitTime                           14.222     15.059     .00000     1885.2        340    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        340    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        340    
+Entity 1.TotalTime                          21.544     15.015     1.0413     1885.2        340    
+car parks Area 4.Queue.WaitingTime          805.92     (Insuf)    .00000     1885.2          6    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.269     (Corr)     .00000     88.000     85.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.117     (Insuf)    .00000     83.000     83.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            336  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          6  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           425.00    
+Entity 1.NumberOut                          340.00    
+Park Place 4.NumberSeized                   6.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            340.00    
+
+Beginning replication 47 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 47 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             22.659     (Insuf)    .00000     1140.8         87    
+Entity 1.VATime                             7.9751     1.0001     .00000     51.710        322    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        322    
+Entity 1.WaitTime                           16.453     18.553     .00000     1341.7        322    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        322    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        322    
+Entity 1.TotalTime                          24.428     18.283     .96690     1341.7        322    
+car parks Area 4.Queue.WaitingTime          662.24     (Insuf)    .00000     1341.7          8    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.407     (Corr)     .00000     88.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.219     (Insuf)    .00000     83.000     80.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            315  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          5  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           403.00    
+Entity 1.NumberOut                          322.00    
+Park Place 4.NumberSeized                   8.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            322.00    
+
+Beginning replication 48 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 48 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             18.677     (Insuf)    .00000     601.99         88    
+Entity 1.VATime                             8.3538     .74643     .00000     42.976        340    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        340    
+Entity 1.WaitTime                           24.320     20.182     .00000     1806.8        340    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        340    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        340    
+Entity 1.TotalTime                          32.674     20.095     .89549     1806.8        340    
+car parks Area 4.Queue.WaitingTime          918.78     (Insuf)    .00000     1806.8          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                82.601     (Corr)     .00000     88.000     81.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        80.287     (Insuf)    .00000     82.000     80.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            332  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          6  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           421.00    
+Entity 1.NumberOut                          340.00    
+Park Place 4.NumberSeized                   9.0000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            340.00    
+
+Beginning replication 49 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 49 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             22.155     (Insuf)    .00000     497.56         90    
+Entity 1.VATime                             7.7439     (Insuf)    .00000     40.952        315    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        315    
+Entity 1.WaitTime                           36.155     (Insuf)    .00000     2054.5        315    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        315    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        315    
+Entity 1.TotalTime                          43.899     (Insuf)    1.3154     2054.5        315    
+car parks Area 4.Queue.WaitingTime          1138.9     (Insuf)    .00000     2054.5         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                83.548     (Corr)     .00000     88.000     83.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        81.416     (Insuf)    .00000     83.000     81.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            305  Infinite
+Record No Space Available Leave                   2  Infinite
+Record Car wants to Park                         10  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           398.00    
+Entity 1.NumberOut                          315.00    
+Park Place 4.NumberSeized                   10.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            315.00    
+
+Beginning replication 50 of 50
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 50 of 50
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+Replication ended at time      : 2162.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Park Arrival Rate Record Area 4             23.097     (Insuf)    .00000     972.95         91    
+Entity 1.VATime                             8.2748     (Insuf)    .00000     49.884        300    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        300    
+Entity 1.WaitTime                           31.532     (Insuf)    .00000     2013.2        300    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        300    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        300    
+Entity 1.TotalTime                          39.807     (Insuf)    1.2447     2013.2        300    
+car parks Area 4.Queue.WaitingTime          727.67     (Insuf)    .00000     2013.2         13    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                80.510     (Corr)     .00000     87.000     82.000    
+Park Place 4.NumberBusy                     1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place 4.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place 4.Utilization                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+car parks Area 4.Queue.NumberInQueue        78.355     (Insuf)    .00000     82.000     79.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Record No Park Leave                            290  Infinite
+Record No Space Available Leave                   0  Infinite
+Record Car wants to Park                          9  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           382.00    
+Entity 1.NumberOut                          300.00    
+Park Place 4.NumberSeized                   13.000    
+Park Place 4.ScheduledUtilization           1.0000    
+System.NumberOut                            300.00    
+
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                 Output Summary for 50 Replications
+
+Project: Unnamed Project                                             Run execution date : 4/15/2015
+Analyst: Jacob                                                       Model revision date: 4/15/2015
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Entity 1.NumberIn                           410.46     4.7213     382.00     454.00     50
+Entity 1.NumberOut                          328.20     4.6620     300.00     368.00     50
+Park Place 4.NumberSeized                   8.7200     .72784     3.0000     14.000     50
+Park Place 4.ScheduledUtilization           1.0000     .00000     1.0000     1.0000     50
+System.NumberOut                            328.20     4.6620     300.00     368.00     50
+
+Simulation run time: 1.50 minutes.
+Simulation run complete.

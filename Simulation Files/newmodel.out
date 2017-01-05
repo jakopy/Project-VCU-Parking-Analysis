@@ -1,0 +1,260 @@
+
+                                      ARENA Simulation Results
+                                      Jacob - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 5/ 3/2015
+Analyst: Jacob                                                       Model revision date: 5/ 3/2015
+
+Replication ended at time      : 10800.0 Seconds 
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             1.0000     (Insuf)    1.0000     1.0000        144    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        144    
+Entity 1.WaitTime                           1976.2     (Insuf)    .00000     8140.7        144    
+Entity 1.TranTime                           .25368     (Insuf)    .01000     1.0200        144    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        144    
+Entity 1.TotalTime                          1977.5     (Insuf)    1.0200     8142.7        144    
+car parks Area 1.Queue.WaitingTime          5201.2     (Insuf)    .00000     7983.8         54    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                40.820     (Insuf)    .00000     46.000     42.000    
+Park Place.NumberBusy                       1.0000     (Insuf)    .00000     1.0000     1.0000    
+Park Place.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Park Place.Utilization                      1.0000     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 2.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Resource 2.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 2.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 3.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Resource 3.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 3.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 4.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Resource 4.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 4.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 5.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Resource 5.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 5.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 6.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Resource 6.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 6.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 7.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Resource 7.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 7.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 8.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Resource 8.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 8.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 9.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Resource 9.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 9.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 10.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 10.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 10.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 11.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 11.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 11.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 12.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 12.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 12.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 13.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 13.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 13.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 14.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 14.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 14.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 15.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 15.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 15.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 16.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 16.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 16.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 17.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 17.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 17.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 18.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 18.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 18.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 19.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 19.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 19.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 20.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 20.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 20.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 21.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 21.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 21.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 22.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 22.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 22.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 23.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 23.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 23.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 24.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 24.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 24.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 25.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 25.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 25.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 26.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 26.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 26.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 27.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 27.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 27.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 28.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 28.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 28.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 29.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 29.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 29.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 30.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 30.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 30.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 31.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 31.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 31.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 32.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 32.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 32.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 33.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 33.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 33.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 34.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 34.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 34.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 35.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 35.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 35.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 36.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 36.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 36.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 37.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 37.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 37.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 38.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 38.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 38.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 39.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 39.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 39.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 40.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 40.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 40.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 41.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 41.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 41.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 42.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 42.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 42.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+car parks Area 1.Queue.NumberInQueue        39.799     (Insuf)    .00000     42.000     41.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           186.00    
+Entity 1.NumberOut                          144.00    
+Park Place.NumberSeized                     54.000    
+Park Place.ScheduledUtilization             1.0000    
+Resource 1.NumberSeized                     .00000    
+Resource 1.ScheduledUtilization             .00000    
+Resource 2.NumberSeized                     .00000    
+Resource 2.ScheduledUtilization             .00000    
+Resource 3.NumberSeized                     .00000    
+Resource 3.ScheduledUtilization             .00000    
+Resource 4.NumberSeized                     .00000    
+Resource 4.ScheduledUtilization             .00000    
+Resource 5.NumberSeized                     .00000    
+Resource 5.ScheduledUtilization             .00000    
+Resource 6.NumberSeized                     .00000    
+Resource 6.ScheduledUtilization             .00000    
+Resource 7.NumberSeized                     .00000    
+Resource 7.ScheduledUtilization             .00000    
+Resource 8.NumberSeized                     .00000    
+Resource 8.ScheduledUtilization             .00000    
+Resource 9.NumberSeized                     .00000    
+Resource 9.ScheduledUtilization             .00000    
+Resource 10.NumberSeized                    .00000    
+Resource 10.ScheduledUtilization            .00000    
+Resource 11.NumberSeized                    .00000    
+Resource 11.ScheduledUtilization            .00000    
+Resource 12.NumberSeized                    .00000    
+Resource 12.ScheduledUtilization            .00000    
+Resource 13.NumberSeized                    .00000    
+Resource 13.ScheduledUtilization            .00000    
+Resource 14.NumberSeized                    .00000    
+Resource 14.ScheduledUtilization            .00000    
+Resource 15.NumberSeized                    .00000    
+Resource 15.ScheduledUtilization            .00000    
+Resource 16.NumberSeized                    .00000    
+Resource 16.ScheduledUtilization            .00000    
+Resource 17.NumberSeized                    .00000    
+Resource 17.ScheduledUtilization            .00000    
+Resource 18.NumberSeized                    .00000    
+Resource 18.ScheduledUtilization            .00000    
+Resource 19.NumberSeized                    .00000    
+Resource 19.ScheduledUtilization            .00000    
+Resource 20.NumberSeized                    .00000    
+Resource 20.ScheduledUtilization            .00000    
+Resource 21.NumberSeized                    .00000    
+Resource 21.ScheduledUtilization            .00000    
+Resource 22.NumberSeized                    .00000    
+Resource 22.ScheduledUtilization            .00000    
+Resource 23.NumberSeized                    .00000    
+Resource 23.ScheduledUtilization            .00000    
+Resource 24.NumberSeized                    .00000    
+Resource 24.ScheduledUtilization            .00000    
+Resource 25.NumberSeized                    .00000    
+Resource 25.ScheduledUtilization            .00000    
+Resource 26.NumberSeized                    .00000    
+Resource 26.ScheduledUtilization            .00000    
+Resource 27.NumberSeized                    .00000    
+Resource 27.ScheduledUtilization            .00000    
+Resource 28.NumberSeized                    .00000    
+Resource 28.ScheduledUtilization            .00000    
+Resource 29.NumberSeized                    .00000    
+Resource 29.ScheduledUtilization            .00000    
+Resource 30.NumberSeized                    .00000    
+Resource 30.ScheduledUtilization            .00000    
+Resource 31.NumberSeized                    .00000    
+Resource 31.ScheduledUtilization            .00000    
+Resource 32.NumberSeized                    .00000    
+Resource 32.ScheduledUtilization            .00000    
+Resource 33.NumberSeized                    .00000    
+Resource 33.ScheduledUtilization            .00000    
+Resource 34.NumberSeized                    .00000    
+Resource 34.ScheduledUtilization            .00000    
+Resource 35.NumberSeized                    .00000    
+Resource 35.ScheduledUtilization            .00000    
+Resource 36.NumberSeized                    .00000    
+Resource 36.ScheduledUtilization            .00000    
+Resource 37.NumberSeized                    .00000    
+Resource 37.ScheduledUtilization            .00000    
+Resource 38.NumberSeized                    .00000    
+Resource 38.ScheduledUtilization            .00000    
+Resource 39.NumberSeized                    .00000    
+Resource 39.ScheduledUtilization            .00000    
+Resource 40.NumberSeized                    .00000    
+Resource 40.ScheduledUtilization            .00000    
+Resource 41.NumberSeized                    .00000    
+Resource 41.ScheduledUtilization            .00000    
+Resource 42.NumberSeized                    .00000    
+Resource 42.ScheduledUtilization            .00000    
+System.NumberOut                            144.00    
+
+
+Simulation run time: 5.03 minutes.
+Simulation run complete.
