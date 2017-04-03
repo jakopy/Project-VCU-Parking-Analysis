@@ -1,10 +1,9 @@
-===========
+
 The Purpose
 ===========
 
 The purpose of this project was to analyze different street parking areas around VCU (Virginia Commonwealth University)
 
-=============
 Requirements
 ============
 
@@ -12,7 +11,6 @@ Download Arena Simulation Software here: https://www.arenasimulation.com/simulat
 Download @Risk here: http://www.palisade.com/risk/ </br>
 NOTE! in order to run the simulation in Arena you must run any of the .doe files stored in the Simulation Files directory
 
-==========
 The Files
 ==========
 
